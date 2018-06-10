@@ -1,0 +1,80 @@
+@media (min-width: 768px) {
+    .view {
+        overflow: visible;
+        margin-top: -56px;
+    }
+}
+.navbar {
+    z-index: 1;
+    height: 150px;
+}
+
+.navbar .navbar-nav {
+    float: none !important;
+    }
+    
+    .navbar .navbar-collapse {
+    text-align: center;
+    }
+ 
+
+.logo-tuut{
+   
+ font-size: 35px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 900;
+
+}
+
+.view {
+    background: url("http://tuut.com.br/app/uploads/2017/03/IMG_0185.jpg")no-repeat center center;
+    background-size: cover;
+    height: 70vh;
+}
+
+#texto{
+    background-color: #bdbdbd;
+   /* width: 70em;*/
+}
+
+
+
+.accordion.accordion-4 p {
+    font-size: 1rem; 
+    background-color: #bdbdbd  ;
+    color:black;
+    
+  }
+.accordion.accordion-4 .card {
+    border: 0; 
+    
+   }  
+   
+.accordion.accordion-4 .card .card-header {
+      border: 0; 
+      background-color: #bdbdbd;
+      margin-bottom: 10px; 
+    }
+
+ .accordion.accordion-4 .card .card-body {
+      border-bottom-right-radius: 3px;
+      border-bottom-left-radius: 3px; 
+
+    }
+
+ #texto-projetos{
+        
+    font-size: 20px;
+
+ }
+
+ #blog{
+     background-color: #bdbdbd;
+ }   
+
+ i{
+     color: white;
+     
+ }
+
+ 
